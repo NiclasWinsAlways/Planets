@@ -2,3 +2,4 @@
 * Earth
 * Mars
 * venus
+* Mercury 
