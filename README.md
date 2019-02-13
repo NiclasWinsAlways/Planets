@@ -5,3 +5,4 @@
 * Venus
 * Neptune
 * Jupiter
+* Uranus
