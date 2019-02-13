@@ -4,3 +4,4 @@
 * Mercury
 * Venus
 * Neptune
+* Jupiter
